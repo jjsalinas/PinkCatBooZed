@@ -7,8 +7,7 @@
 A cute & warm theme ported to [Zed Editor](https://zed.dev), mainly designed with rose pink, light purple, banana yellow and sky blue. Especially for coder girls (ง •▿•́)ง
 
 ### Screenshot
-
-> (To be added)
+![Preview](https://raw.githubusercontent.com/jjsalinas/PinkCatBooZed/main/preview.png)
 
 ---
 
