@@ -1,25 +1,58 @@
-# About Pink-Cat-Boo
+# Pink-Cat-Boo for Zed
 
-Hi~☆  
-This is a cute & warm theme, especially for coder girls. Mainly designed with rose pink, light purple, banana yellow and sky blue.  
-Hope yall like it (ง •▿•́)ง 
+> ⚠️ **This is an unofficial Zed port.** All design credit goes to the original author, [ftsamoyed](https://github.com/ftsamoyed). The original theme was created for VS Code and lives at [ftsamoyed/PinkCatBoo](https://github.com/ftsamoyed/PinkCatBoo).
+
+---
+
+A cute & warm theme ported to [Zed Editor](https://zed.dev), mainly designed with rose pink, light purple, banana yellow and sky blue. Especially for coder girls (ง •▿•́)ง
 
 ### Screenshot
-![Preview](https://raw.githubusercontent.com/ftsamoyed/PinkCatBoo/master/preview.png)
 
-### Update
-##### v1.3.0 (2018/10/12)
- - Adapt custom title bar (only apply for VS Code versions 1.28 and higher)
- 
-##### v1.2.0 (2018/6/14)
- - Change colors of error/warning hints in edtor and sidebar
- - Add top border color to active tab
- - A new theme design of notification center (only apply for VS Code versions 1.21 and higher)
+> (To be added)
 
-##### v1.1.0 (2018/3/20)
- - Change the color of scroll bar
- - Fit the new design for notification center (only apply for VS Code versions 1.21 and higher)
- - Change the background color of editor group header
+---
 
-# Based on
-Pink-Cat-Boo theme was on the basis of monokai dimmed.
+## Installation
+
+### Local install (quick)
+
+1. Download `pink-cat-boo.json` from this repo
+2. Copy it to your Zed themes directory:
+
+```bash
+# macOS / Linux
+cp pink-cat-boo.json ~/.config/zed/themes/pink-cat-boo.json
+```
+
+3. Open Zed and press `Cmd+Shift+P` (macOS) or `Ctrl+Shift+P` (Linux/Windows)
+4. Run **theme selector: toggle** and search for **Pink Cat Boo**
+
+
+---
+
+## About this fork
+
+This repository is a port of the original **Pink-Cat-Boo** VS Code theme to the Zed theme format.
+
+Zed uses a different JSON schema from VS Code (`https://zed.dev/schema/themes/v0.2.0.json`), so all VS Code-specific `colors` and `tokenColors` entries were manually mapped to Zed's `style` and `syntax` blocks, preserving the original color palette as closely as possible.
+
+No design decisions were changed — this is a straight conversion, not a remix.
+
+---
+
+## Credits
+
+| | |
+|---|---|
+| **Original theme** | [Pink-Cat-Boo for VS Code](https://github.com/ftsamoyed/PinkCatBoo) |
+| **Original author** | [ftsamoyed (Fiona Fan)](https://github.com/ftsamoyed) |
+| **Original license** | [MIT](https://github.com/ftsamoyed/PinkCatBoo/blob/master/LICENSE.md) |
+| **Zed port** | This repository |
+
+If you enjoy this theme, please go ⭐ the [original repo](https://github.com/ftsamoyed/PinkCatBoo) — all the love belongs there.
+
+---
+
+## License
+
+MIT — same as the original. See [LICENSE](./LICENSE) for details.
