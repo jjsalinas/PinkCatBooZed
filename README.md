@@ -13,6 +13,10 @@ A cute & warm theme ported to [Zed Editor](https://zed.dev), mainly designed wit
 
 ## Installation
 
+### Available as Zed extension
+Search for "pink cat boo" on zed editor extension and you'll find it<br/>
+https://zed.dev/extensions/pink-cat-boo-theme
+
 ### Local install (quick)
 
 1. Download `pink-cat-boo.json` from this repo
