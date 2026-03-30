@@ -51,6 +51,7 @@ No design decisions were changed — this is a straight conversion, not a remix.
 | **Original author** | [ftsamoyed (Fiona Fan)](https://github.com/ftsamoyed) |
 | **Original license** | [MIT](https://github.com/ftsamoyed/PinkCatBoo/blob/master/LICENSE.md) |
 | **Zed port** | This repository |
+| **Zed theme** | [Zed extension link](https://zed.dev/extensions/pink-cat-boo-theme) |
 
 If you enjoy this theme, please go ⭐ the [original repo](https://github.com/ftsamoyed/PinkCatBoo) — all the love belongs there.
 
